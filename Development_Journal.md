@@ -42,34 +42,21 @@ I used this video to make my quick time event system more immersive and interact
 - Include screenshots, diagrams, or code snippets where relevant to showcase your progress.
 
 ### New Approaches  
-- Detail any innovative or new approaches you explored during the project.  
-- Explain why these approaches were chosen and how they differ from standard practices.  
-- Evaluate the success of these approaches, including any challenges faced and lessons learned.
+For this game i thought raycasting would be the best for the interaction. However after testing the raycasting alongside begin overlap I decided a trigger box was better for thos senario. It was intresting to learn as implementing a trigger box is alot more visual then in unity.
 
 ### Testing
 When testing the game I came to the conclusion that the ui system, walk keys and puzzle elements (more complex) need to be more interactive. Some screens were timed and you couldnt exit until the timer had finished. For people that picked up on what they needed to do quickly this took away from the experience. Making puzzle hints and a bigger game area
 
 ### Technical Difficulties
-- Identify any technical difficulties encountered during the implementation phase.  
-- Provide details on how these issues were diagnosed and resolved.  
-- If any difficulties remain unresolved, explain the impact on the project and any mitigation strategies used to minimise their effect.  
-- Reflect on what you would do differently in future projects to avoid similar issues.
+During the game progress there were several technical issues the mains ones being the Password system and the QTE (quick time event) system. While the password was functional before the game test you could put in any code as long as you used all 4 numbers and it would work, this was a majour flaw as well as not being able to back out of the screen. These were fixed and i have provided documentation sources which i looked at while trying to getb= this to work.
+The QTE system had an issue when trasffering to main which gliched some variables, I had to go through and recheck the variables and replace the broken ones to fix this issue.
 
 ## Outcomes (Suggested Word Count 300) 
 
-- [itchlink](https://lunarlynx-games.itch.io/rollquest)
-- [gitlink](https://github.com/AnnaRogers04)
-- [youtubelink](https://youtu.be/_V-dt0JOJTU?si=6-LwRPRocS8P6i0_)
+- [itchlink]
+- [gitlink]
+- [youtubelink]
 
-### Source Code/Project Files
-- Provide a link to your complete source code or project files.  
-- Ensure the link is publicly accessible or shared with the appropriate permissions.  
-- Include a brief description of the files provided, highlighting key components or any instructions required to run the project.
-
-### Video Demonstration
-- Embed a video or provide a link to a recorded demonstration of your project in action.  
-- The video should showcase key features, functionality, and any unique elements of your project.  
-- Include a brief commentary or text overlay in the video to explain the different aspects of your project as they are shown.
 
 ## Reflection (Suggested Word Count 500) 
 

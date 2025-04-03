@@ -47,7 +47,7 @@ I used this video to make my quick time event system more immersive and interact
 - Evaluate the success of these approaches, including any challenges faced and lessons learned.
 
 ### Testing
-When testing the game I came to the conclusion that the ui system, walk keys and puzzle elements need to be more interactive. Some screens were timed and you couldnt exit until the timer had finished. For people that picked up on what they needed to do quickly this took away from the experience.
+When testing the game I came to the conclusion that the ui system, walk keys and puzzle elements (more complex) need to be more interactive. Some screens were timed and you couldnt exit until the timer had finished. For people that picked up on what they needed to do quickly this took away from the experience. Making puzzle hints and a bigger game area
 
 ### Technical Difficulties
 - Identify any technical difficulties encountered during the implementation phase.  

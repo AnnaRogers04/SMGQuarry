@@ -32,7 +32,11 @@ The game is based of the quarry, a cinematic game made by supermassive. For this
 ### Documentation Sources  
 <iframe width="560" height="315" src="https://www.youtube.com/embed/H58y1Fp77_w?si=6oQG_i1nNOX5JJVa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-I used this video to make my quick time event system more immersive and interactive. As the Quarry is a cinematic game interactions are kept to a minimum so adding a visual quick time made this better.
+I used this video to make my quick time event system more immersive and interactive. As the Quarry is a cinematic game interactions are kept to a minimum so adding a visual quick time made this better. a quick time event is new to me this is a source that i felt very imformative to exspand my knowlage but as helpful as it was i struggled as there was no audio only notes. This is where i gained help from my peers and gained a greater understanding on how to learn it sucsessfuly and quickly as this was someting i struggled with understanding. I also had help from my peers when navigating and fixing my quick time event when stuck on a part i didnt understand.
+
+
+I used this video to make my quick-time event system more immersive and interactive. Since *The Quarry* is a cinematic game with minimal interactions, adding a visual quick-time event enhanced the experience.  
+Quick-time events were new to me, and this source was very informative in expanding my knowledge. However, I found it challenging to follow since it only provided notes and no audio. To overcome this, I sought help from my peers, which greatly improved my understanding and allowed me to implement the system successfully and efficiently. Additionally, my peers assisted me in troubleshooting and fixing issues when I encountered difficulties.
 
 ## Implementation (Suggested Word Count 1,100)  
 
@@ -45,7 +49,7 @@ I used this video to make my quick time event system more immersive and interact
 For this game i thought raycasting would be the best for the interaction. However after testing the raycasting alongside begin overlap I decided a trigger box was better for thos senario. It was intresting to learn as implementing a trigger box is alot more visual then in unity.
 
 ### Testing
-When testing the game I came to the conclusion that the ui system, walk keys and puzzle elements (more complex) need to be more interactive. Some screens were timed and you couldnt exit until the timer had finished. For people that picked up on what they needed to do quickly this took away from the experience. Making puzzle hints and a bigger game area
+When testing the game I came to the conclusion that the ui system, walk keys and puzzle elements (more complex) need to be more interactive. Some screens were timed and you couldnt exit until the timer had finished. For people that picked up on what they needed to do quickly this took away from the experience. Making puzzle hints and a bigger game area. this feedback was very informative for me to perfect this game and has pushed me outside my comfort zone to overcome this i used a varity of sources from teatcher  peer support to videos to inform and improve my work. responding to this feedback i discussed to my group the changes that needed to be make and delegated roles to each menber to allow everyone to have a direction and upon doing this weve been able to correct and firther improve the game to make the exsperiance more imersive and allow the player a greater 
 
 ### Technical Difficulties
 During the game progress there were several technical issues the mains ones being the Password system and the QTE (quick time event) system. While the password was functional before the game test you could put in any code as long as you used all 4 numbers and it would work, this was a majour flaw as well as not being able to back out of the screen. These were fixed and i have provided documentation sources which i looked at while trying to getb= this to work.

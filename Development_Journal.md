@@ -8,7 +8,7 @@ Anna Rogers
 
 ## Brief
 
-2. Will video games inevitably mature into a new narrative artform driven by their storytelling ambitions? Consider different narrative structures deployed by game designers and the player’s role in experiencing and constructing game stories. (asking if video games in themselves will be considered their own art form driven by their choices in design story telling narrative)#
+2. Will video games inevitably mature into a new narrative artform driven by their storytelling ambitions? Consider different narrative structures deployed by game designers and the player’s role in experiencing and constructing game stories. (asking if video games in themselves will be considered their own art form driven by their choices in design story telling narrative)
 
 
 ## Project Outline (Suggested Word Count 500) 
@@ -25,9 +25,8 @@ The game is based of the quarry, a cinematic game made by supermassive. For this
 - Analyse the game's approach, cross-referencing it with other sources such as articles or talks to support your analysis.  
 - Explain how these insights apply to your project and influence your decision-making process.
 
-### Academic Sources  
-- Research academic papers, books, or articles that provide theoretical guidance for your project. Include a brief summary of each source.  
-- Describe how the academic research applies to your project and shapes your design and development decisions.
+### Academic Sources
+For my academic sources I looked at 3 different books.   
 
 ### Documentation Sources  
 <iframe width="560" height="315" src="https://www.youtube.com/embed/H58y1Fp77_w?si=6oQG_i1nNOX5JJVa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -88,5 +87,8 @@ The QTE system had an issue when trasffering to main which gliched some variable
 How do I press the buttons in the correct order using a variable? - Programming & Scripting / Blueprint - Epic Developer Community Forums (s.d.) At: https://forums.unrealengine.com/t/how-do-i-press-the-buttons-in-the-correct-order-using-a-variable/488873 (Accessed  01/04/2025).
 Basic QTE System | Part 1 - Unreal Engine 4 Tutorial (2021) At: https://www.youtube.com/watch?v=teoJUExYjVI (Accessed  01/04/2025).
 Tap Key System (QTE) in Unreal Engine 5 (Tutorial) (2022) At: https://www.youtube.com/watch?v=H58y1Fp77_w (Accessed  01/04/2025).
+Kirkland, E. (s.d.) 'Storytelling in Survival Horror Video Games' In: Horror Video Games: Essays on the Fusion of Fear and Play. (s.l.): (s.n.). pp.62–78.
+Sheldon, L. (s.d.) 'Character development and storytelling for games' (s.l.): (s.n.). pp.153–154.
+Hoedt, M. (s.d.) 'Narrative Design and Authorship in Bloodborne' In: An Analysis of the Horror Videogame. (s.l.): (s.n.). pp.140–142.
 
 ## Declared Assets

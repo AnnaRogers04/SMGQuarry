@@ -55,9 +55,9 @@ The blueprints below show my process to my main mechanics. These are my quick ti
 <iframe src="https://blueprintue.com/render/cipdk-x5/" scrolling="no" allowfullscreen></iframe>
 <iframe src="https://blueprintue.com/render/wtamd7af/" scrolling="no" allowfullscreen></iframe> 
 
-![alt text](432027262-965ef796-3c0c-4ce3-b4b0-1752fc6c9313-1.gif)
-![alt text](432027316-319d86de-96d4-4eb5-b28d-8ca93f5c437f.gif)
- 
+![Failed_QTE](https://github.com/user-attachments/assets/965ef796-3c0c-4ce3-b4b0-1752fc6c9313)
+![Passed_QTE](https://github.com/user-attachments/assets/319d86de-96d4-4eb5-b28d-8ca93f5c437f)
+
  Figure 1 and 2 show both the passed and failed system working, The positioning was later changed for the final product
 
 ### Interaction system
@@ -65,7 +65,7 @@ The blueprints below show my process to my main mechanics. These are my quick ti
 
 
 ### Visuals 
-![alt text](image.png)
+![Cage progress](https://github.com/user-attachments/assets/1766238e-23f0-49a5-b36f-e449b7d99499)
 Figure 3 shows the progression of the cage before textures were added, during this process assets were starting to be added to the game.
 
 ### New Approaches  
@@ -80,9 +80,9 @@ The QTE system had an issue when trasffering to main which gliched some variable
 
 ## Outcomes (remaining word count) 
 
-- [itchlink] https://lunarlynx-games.itch.io/thequarrystudentinspired 
-- [gitlink] https://github.com/AnnaRogers04/SMGQuarry
-- [youtubelink] https://www.youtube.com/watch?v=C_sLJNYTjBE
+- [itchlink](https://lunarlynx-games.itch.io/thequarrystudentinspired/) 
+- [gitlink](https://github.com/AnnaRogers04/SMGQuarry/)
+- [youtubelink](https://youtu.be/C_sLJNYTjBE?si=i-Zj6I86VqMRw1nP/)
 
 
 ## Reflection (Suggested Word Count 800) 

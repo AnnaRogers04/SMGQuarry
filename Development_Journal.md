@@ -46,11 +46,27 @@ Quick-time events were new to me, and this source was very good in expanding my 
 ## Implementation
 
 ### Process
+
+The blueprints below show my process to my main mechanics. These are my quick time event and my interaction which includes widgets appearing and dissappearing.
+
+### Quick time event system
 <iframe src="https://blueprintue.com/render/mey5o30d/" scrolling="no" allowfullscreen></iframe>
 <iframe src="https://blueprintue.com/render/wqfjnmuz/" scrolling="no" allowfullscreen></iframe>
 <iframe src="https://blueprintue.com/render/cipdk-x5/" scrolling="no" allowfullscreen></iframe>
-<iframe src="https://blueprintue.com/render/wtamd7af/" scrolling="no" allowfullscreen></iframe>
+<iframe src="https://blueprintue.com/render/wtamd7af/" scrolling="no" allowfullscreen></iframe> 
+
+![alt text](432027262-965ef796-3c0c-4ce3-b4b0-1752fc6c9313-1.gif)
+![alt text](432027316-319d86de-96d4-4eb5-b28d-8ca93f5c437f.gif)
+ 
+ Figure 1 and 2 show both the passed and failed system working, The positioning was later changed for the final product
+
+### Interaction system
 <iframe src="https://blueprintue.com/render/5iiwqmyw/" scrolling="no" allowfullscreen></iframe>
+
+
+### Visuals 
+![alt text](image.png)
+Figure 3 shows the progression of the cage before textures were added, during this process assets were starting to be added to the game.
 
 ### New Approaches  
 For this game i thought raycasting would be the best for the interaction. However after testing the raycasting alongside begin overlap I decided a trigger box was better for thos senario. It was intresting to learn as implementing a trigger box is alot more visual then in unity.
@@ -97,4 +113,4 @@ Kirkland, E. (s.d.) 'Storytelling in Survival Horror Video Games' In: Horror Vid
 Sheldon, L. (s.d.) 'Character development and storytelling for games' (s.l.): (s.n.). pp.153–154.
 Hoedt, M. (s.d.) 'Narrative Design and Authorship in Bloodborne' In: An Analysis of the Horror Videogame. (s.l.): (s.n.). pp.140–142.
 
-## Declared Assets
+## Declared Assets![alt text]

@@ -48,7 +48,7 @@ Quick-time events were new to me, and this source was very good in expanding my 
 ### Process
 <iframe src="https://blueprintue.com/render/mey5o30d/" scrolling="no" allowfullscreen></iframe>
 <iframe src="https://blueprintue.com/render/wqfjnmuz/" scrolling="no" allowfullscreen></iframe>
-<iframe src="https://blueprintue.com/render/ou4bgjtp/" scrolling="no" allowfullscreen></iframe>
+<iframe src="https://blueprintue.com/render/cipdk-x5/" scrolling="no" allowfullscreen></iframe>
 <iframe src="https://blueprintue.com/render/wtamd7af/" scrolling="no" allowfullscreen></iframe>
 <iframe src="https://blueprintue.com/render/5iiwqmyw/" scrolling="no" allowfullscreen></iframe>
 
@@ -64,9 +64,9 @@ The QTE system had an issue when trasffering to main which gliched some variable
 
 ## Outcomes (remaining word count) 
 
-- [itchlink]
+- [itchlink] https://lunarlynx-games.itch.io/thequarrystudentinspired 
 - [gitlink] https://github.com/AnnaRogers04/SMGQuarry
-- [youtubelink]
+- [youtubelink] https://www.youtube.com/watch?v=C_sLJNYTjBE
 
 
 ## Reflection (Suggested Word Count 800) 

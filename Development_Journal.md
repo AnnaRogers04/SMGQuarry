@@ -6,15 +6,17 @@ Anna Rogers
 
 2315276
 
-## Brief
+## Brief Question
 
-2. Will video games inevitably mature into a new narrative artform driven by their storytelling ambitions? Consider different narrative structures deployed by game designers and the player’s role in experiencing and constructing game stories. (asking if video games in themselves will be considered their own art form driven by their choices in design story telling narrative)
+ 2. Will video games inevitably mature into a new narrative artform driven by their storytelling ambitions? Consider different narrative structures deployed by game designers and the player’s role in experiencing and constructing game stories. 
+ 
+ (asking if video games in themselves will be considered their own art form driven by their choices in design story telling narrative)
 
 
 ## Project Outline
 The game I've chosen to base this project off of is The Quarry, a cinematic third person game experience that relies on ambiance and scenes to proivide the player with an immserive experience. I wanted to create a playable scene that felt like The Quarry by impletemting a similar interaction system the orignal game and a similar UI system to try learn something new and push my bounderies outside my comfort zone. I will do this by researching and learning blueprints for interaction systems and adjusting them to suit the style of gameplay wanted.
 
-## Research
+## Research:
 
 ### Methodology  
 
@@ -106,11 +108,29 @@ The QTE system had an issue when trasffering to main which gliched some variable
 - Consider any new tools, techniques, or approaches you would explore in future projects to achieve better results.
 
 ## Bibliography  
-How do I press the buttons in the correct order using a variable? - Programming & Scripting / Blueprint - Epic Developer Community Forums (s.d.) At: https://forums.unrealengine.com/t/how-do-i-press-the-buttons-in-the-correct-order-using-a-variable/488873 (Accessed  01/04/2025).
-Basic QTE System | Part 1 - Unreal Engine 4 Tutorial (2021) At: https://www.youtube.com/watch?v=teoJUExYjVI (Accessed  01/04/2025).
-Tap Key System (QTE) in Unreal Engine 5 (Tutorial) (2022) At: https://www.youtube.com/watch?v=H58y1Fp77_w (Accessed  01/04/2025).
-Kirkland, E. (s.d.) 'Storytelling in Survival Horror Video Games' In: Horror Video Games: Essays on the Fusion of Fear and Play. (s.l.): (s.n.). pp.62–78.
-Sheldon, L. (s.d.) 'Character development and storytelling for games' (s.l.): (s.n.). pp.153–154.
-Hoedt, M. (s.d.) 'Narrative Design and Authorship in Bloodborne' In: An Analysis of the Horror Videogame. (s.l.): (s.n.). pp.140–142.
+Research
+- Kirkland, E. (s.d.) 'Storytelling in Survival Horror Video Games' In: Horror Video Games: Essays on the Fusion of Fear and Play. (s.l.): (s.n.). pp.62–78.
+- Sheldon, L. (s.d.) 'Character development and storytelling for games' (s.l.): (s.n.). pp.153–154.
+- Hoedt, M. (s.d.) 'Narrative Design and Authorship in Bloodborne' In: An Analysis of the Horror Videogame. (s.l.): (s.n.). pp.140–142.
 
-## Declared Assets![alt text]
+Game sources
+- How do I press the buttons in the correct order using a variable? - Programming & Scripting / -    Blueprint - Epic Developer Community Forums (s.d.) At: (https://forums.unrealengine.com/t/)
+- how-do-i-press-the-buttons-in-the-correct-order-using-a-variable/488873 (Accessed  01/04/2025).-
+- Basic QTE System | Part 1 - Unreal Engine 4 Tutorial (2021) At: (https://www.youtube.com/watch?v=teoJUExYjVI/) (Accessed  01/04/2025).
+- Tap Key System (QTE) in Unreal Engine 5 (Tutorial) (2022) At: (https://www.youtube.com/watch?v=H58y1Fp77_w/) (Accessed  01/04/2025).
+- How to Make a Credits Menu in Unreal Engine 5 (2023) At: (https://www.youtube.com/watch?v=LmLjLQbyq-4/) (Accessed  09/04/2025).
+
+## Declared Assets
+
+Audio - Sourced and imported by Daniel Mcpherson
+- 8mm Film Camera | Royalty-free Music (s.d.) At: (https://pixabay.com/sound-effects/)8mm-film-camera-6446/ (Accessed  09/04/2025).
+- Cinematic Tension - Suspenseful Thriller Music Loop | Royalty-free Music (s.d.) At: (https://pixabay.com/music/main-title-cinematic-tension-suspenseful-thriller-music-loop-297627/) (Accessed  09/04/2025).
+- Deep Pass By | Royalty-free Music (s.d.) At: (https://pixabay.com/sound-effects/deep-pass-by-106962/) (Accessed  09/04/2025).
+- Fire Alarm Loop by simonjeffery13 (s.d.) At: (https://freesound.org/people/simonjeffery13/sounds/792642/) (Accessed  09/04/2025).
+- Geiger counter (dry) by Sanderboah (s.d.) At: (https://freesound.org/people/Sanderboah/sounds/674113/) (Accessed  09/04/2025).
+- Whip | Afro Dancehall Music | Royalty-free Music (s.d.) At: (https://pixabay.com/music/beats-whip-afro-dancehall-music-110235/) (Accessed  09/04/2025).
+
+Assets - Sourced and added by Daniel Mcpherson
+
+Characters - Made by Ana Brichis, imported by Anna Rogers
+- MetaHuman Creator (s.d.) At: (https://metahuman.unrealengine.com/) (Accessed  09/04/2025).

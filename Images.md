@@ -1,0 +1,6 @@
+![Cage progress](https://github.com/user-attachments/assets/1766238e-23f0-49a5-b36f-e449b7d99499)
+![office progress 1](https://github.com/user-attachments/assets/2c2b6206-8e13-48fe-bd31-304045ba3367)
+![office progress 2](https://github.com/user-attachments/assets/daeedeb9-f5c8-4767-b51d-51265685ae12)
+![GAME TUMBNAIL](https://github.com/user-attachments/assets/ca2cd93a-7405-495a-9e60-da323a17e9cb)
+![Failed_QTE](https://github.com/user-attachments/assets/965ef796-3c0c-4ce3-b4b0-1752fc6c9313)
+![Passed_QTE](https://github.com/user-attachments/assets/319d86de-96d4-4eb5-b28d-8ca93f5c437f)

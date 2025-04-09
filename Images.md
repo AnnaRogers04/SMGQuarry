@@ -4,3 +4,5 @@
 ![GAME TUMBNAIL](https://github.com/user-attachments/assets/ca2cd93a-7405-495a-9e60-da323a17e9cb)
 ![Failed_QTE](https://github.com/user-attachments/assets/965ef796-3c0c-4ce3-b4b0-1752fc6c9313)
 ![Passed_QTE](https://github.com/user-attachments/assets/319d86de-96d4-4eb5-b28d-8ca93f5c437f)
+![photo-collage png](https://github.com/user-attachments/assets/071ac8e0-4da0-47ca-89c4-5048079e8b74)
+![Raycast](https://github.com/user-attachments/assets/0c58e7f1-fda6-47fb-8683-58f531a09f2d)

@@ -68,7 +68,8 @@ I found the quick time event blueprints challenging. The video that shows how to
 - Create widget
 - The majority of the nodes on the Progress bar Blueprint
 
-Learning how to use these nodes and how they would bring the quick time event system together was definitely a learning curve for me however, completing this event was such a relief that it helped provide further motivation to add things like the credits and provide one big push to get everything done.
+Learning how to use these nodes and how they would bring the quick time event system together was definitely a learning curve for me however, completing this event was such a relief that it helped provide further motivation to add things like the credits and provide one big push to get everything done. 
+The 'Do once' nodes were really helpful in preventing certain areas of blueprints to not repeat itself after its been triggered once. And being able to add the variables onto the event nodes was also visually helping to be ble to easily tell what had already been done of the QTE when making it.
 
 
 ![Failed_QTE](https://github.com/user-attachments/assets/965ef796-3c0c-4ce3-b4b0-1752fc6c9313)
@@ -84,7 +85,8 @@ Learning how to use these nodes and how they would bring the quick time event sy
 
 For my interaction system I followed a video by Liam Lacey on adding running dialogue into a game, while i didn't use running dialogue I was able to adapt this system to have an image of a mouse appear when an intractable is within reach. This was one of the first blueprints I created for this project, it was a great introduction to unreal. 
 
-As shown below there was originally a raycast system that was used to interact however I decided that this would be too conflicting with everything else we needed to add so we changed it to the system with the functioning UI. This system in my opinion fits the gameplay style I wanted to create really well and was happy with the change.
+As shown below there was originally a raycast system that was used to interact however I decided that this would be too conflicting with everything else we needed to add so we changed it to the system with the functioning UI. This system in my opinion fits the gameplay style I wanted to create really well and was happy with the change. The UI system for unreal was really fun to learn and im my opinion is better then unity as visually everything is easy to see and its easy to tell whats where. This surprised me as in my opinion I prefer coding in Unity then blueprinting in Ureal, that being said by the end of the project it wasn't as bad as I felt it was when i started using it.
+
 ![photo-collage png](https://github.com/user-attachments/assets/071ac8e0-4da0-47ca-89c4-5048079e8b74)
 
 
@@ -99,10 +101,14 @@ Figure 4 Shows the raycast system working when we were testing blueprints, this 
 <iframe src="https://blueprintue.com/render/q44mhqou/" scrolling="no" allowfullscreen></iframe>
 <iframe src="https://blueprintue.com/render/1di8-483/" scrolling="no" allowfullscreen></iframe>
 
-The end credits was a very simple yet effective blueprint to add. After the quick time event I was more confident using animations and I nderstood how they worked. For instance the play animation node runs the whole animation when trigger the whole way through, this is where adding delays come in useful becau
+The end credits was a very simple yet effective blueprint to add. After the quick time event I was more confident using animations and understanding how they worked. For instance the play animation node when triggered runs the whole animation the whole way through, this is where adding delays come in useful because it can delay when the animation can play so its not immediate. 
+While the fade to black and the main menu button appearing was simple it was still nice to attempt to do something new with no instructions and i think the end result turned out really well. 
+
 ![End credits](https://github.com/user-attachments/assets/82b5226a-10bc-4783-8261-0e7907d32dfe)
 
 ### Visuals 
+
+Visually i think the game came out great. Any technical difficulties with materials weren't shown as clearly due to the lighting, this was somewhat planned as the time spent on trying to get assets and textures took so long that unreal base materials were used on walls and floors within the game.
 
 ![Cage progress](https://github.com/user-attachments/assets/1766238e-23f0-49a5-b36f-e449b7d99499)
 
@@ -133,42 +139,39 @@ Figure 9 shows area of the office finished with lighting and textures, these ima
 
 Figure 10 shows a final image of the cell with textures, I added the assets and textures for all of the cell area and polished that off myself.
 
+In this scene the cage asset itself has unreal metal materials added to them which i think worked really well in the lighting for this area in general. The room is covered in the same texture which due to shadows and lighting looks different from different angles, this was really useful for as the artists didn't need too make wall and floor textures.
+
 ### New Approaches  
-For this game I thought raycasting would be the best for the interaction. However after testing the raycasting alongside begin overlap I decided a trigger box was better for this scenario. It was interesting to learn as implementing a trigger box is a lot more visual then in unity.
+For this game I thought raycasting would be the best for the interaction. However after testing the raycasting alongside begin overlap I decided a trigger box was better for this scenario. It was interesting to learn as implementing a trigger box is a lot more visual then in unity. I also used Unreal addons like Fab and metahumans. Although I didn't important anything from fab it was useful to be able to look at everything. However, I did import metahumans made by my artists. They took a while to import (30ish mins per character and we had 2) but they weren't difficult to import at all.
 
 ### Testing
-When testing the game I came to the conclusion that the UI system, walk keys and puzzle elements (more complex) need to be more interactive. Some screens were timed and you couldn't exit until the timer had finished. For people that picked up on what they needed to do quickly this took away from the experience. Making puzzle hints and a bigger game area. this feedback was very informative for me to perfect this game and has pushed me outside my comfort zone to overcome this I used a variety of sources from teacher  peer support to videos to inform and improve my work. responding to this feedback I discussed to my group the changes that needed to be make and delegated roles to each member to allow everyone to have a direction and upon doing this we've been able to correct and further improve the game to make the experience more immersive and allow the player a greater experience 
+When testing the game, the group came to the conclusion that the UI system, walk keys and puzzle elements (more complex) need to be more interactive. Some screens were timed and you couldn't exit until the timer had finished. For people that picked up on what they needed to do quickly this took away from the experience. Making obvious puzzle hints and a potential bigger area could help with this. This feedback was very informative for me to perfect this game and has pushed me outside my comfort zone. To overcome this I used a variety of sources from teacher support, peer support and videos to inform and improve my work. Responding to this feedback I discussed to my group the changes that needed to be made, and delegated roles to each member to allow everyone to have a direction on what they needed to do. Upon doing this we've been able to correct and further improve the game to make the experience more immersive and allow the player a greater experience 
 
 ### Technical Difficulties
-During the game progress there were several technical issues the mains ones being the Password system and the QTE (quick time event) system. While the password was functional before the game test you could put in any code as long as you used all 4 numbers and it would work, this was a major flaw as well as not being able to back out of the screen. These were fixed and I have provided documentation sources which I looked at while trying to get this to work.
-The QTE system had an issue when transferring to main which glitched some variables, I had to go through and recheck the variables and replace the broken ones to fix this issue.
+During the game progress there were several technical issues, the mains ones being the Password system and the QTE (quick time event) system. While the password was functional before the game test you could put in any code as long as you used all 4 numbers and it would work, this was a major flaw as well as not being able to back out of the screen. These were fixed and I have provided documentation sources which I looked at while trying to get this to work.
+The QTE system had an issue when transferring to main which glitched some variables, I had to go through and recheck the variables and replace the broken ones to fix this issue. It also clashed with other blueprints that had been added to the BP_ThirdPersonCharacter and didn't like it when I pushed to main. I tried different settings on the merge conflicts to attempt to keep all the blueprints working, in the end I had to remake my QTE system as that was less important at the time then the whole camera system that kept breaking. 
 
-## Outcomes (remaining word count) 
+## Outcomes 
+The final outcome of the game is really effective.
 
 - [itchlink](https://lunarlynx-games.itch.io/thequarrystudentinspired/) 
 - [gitlink](https://github.com/AnnaRogers04/SMGQuarry/)
 - [youtubelink](https://youtu.be/C_sLJNYTjBE?si=i-Zj6I86VqMRw1nP/)
 
 
-## Reflection (Suggested Word Count 800) 
+## Reflection 
 
 ### Research Effectiveness  
-- Assess the usefulness of the research conducted during the project.  
-- Highlight which sources (games, academic, documentation) had the most significant impact on your work and explain why.  
-- Identify any research gaps or areas where additional information could have improved your project outcomes.
+For this project I could have definitely researched more sources for blueprints, this may have prevented me from having such a hard time with QTE video having no audio. This could have also streamlined the process for me as the video I followed took me a while to make due to how fast the person making the blueprints worked.
 
 ### Positive Analysis 
-
+I think overall this game came out really well, im really proud of the QTE system I made, while it was a pain to make it works so fluidly in the game that it makes up for it. The mechanics in the game work well and the UIs I implemented work great both technically and visually for designated purpose. I feel we managed to make our game into a cinematic art form and this im really happy about.
 
 ### Negative Analysis  
-- Identify the areas of the project that did not go as planned or could have been improved.  
-- Discuss challenges you faced, whether technical, creative, or time-related, and evaluate their impact on the final product.  
-- Reflect on any mistakes or missteps and what you learned from them.
+Due to lack of motivation between blueprints I found it hard to add more mechanics. I know if I was motivated I could have doubled what I did for this projecT. While im happy with my QTE system, its the only major blueprint I really contributed to this project aside from learning UIs so well I know it almost off by heart. I know I could have contributed more to this project and I am disappointed that mentally I couldn't cope with this concept. 
 
 ### Next Time
-- Outline what you would do differently if you were to undertake a similar project again.  
-- Suggest improvements to your workflow, research methods, or implementation process based on your reflections.  
-- Consider any new tools, techniques, or approaches you would explore in future projects to achieve better results.
+Next time I'll find ways to better motivate myself and instead of doing little to nothing, I will move onto a new section (if i can) to give myself that space mentally. Working on something else in this project could have helped with my motivation and got me to work on this project a lot sooner then I actually did and that is my biggest regret. Next time in a group situation i will be firmer so the group time management is kept up with as well and try have it so the artists work alongside rather then on and off.
 
 ## Bibliography  
 Research

@@ -40,16 +40,21 @@ The second quote further explains that the world you are playing in isn't random
 
 
 ### Documentation Sources  
+#### Quick time
 <iframe width="560" height="315" src="https://www.youtube.com/embed/H58y1Fp77_w?si=6oQG_i1nNOX5JJVa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 I used this video to make my quick-time event system more immersive and interactive. Since *The Quarry* is a cinematic game with minimal interactions, adding a visual quick-time event enhanced the experience.  
 Quick-time events were new to me, and this source was very good in expanding my knowledge of nodes. However, I found it challenging to follow since it only provided notes and no audio. To overcome this, I looked to the designers in my group for help, which greatly improved my understanding and allowed me to implement the system successfully and efficiently. Additionally, my peers assisted me in troubleshooting and fixing issues when I encountered difficulties.
+#### Credits
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LmLjLQbyq-4?si=gLKk3EvA0ewXEjlg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+I used the video provided above to make my credits scene. This tutorial was really easy to follow and explained what I needed to do really well and in depth. After making the end credits from this video I further added the background to fade to black from the game and a main menu button to appear once the credits finished running. This was a nice final touch to add and I really enjoyed being able to share all the names of people I worked with. It polished the game off well and overall I'm really happy with this.
 
 ## Implementation
 
 ### Process
 
-The blueprints below show my process to my main mechanics. These are my quick time event and my interaction which includes widgets appearing and disappearing.
+For this game I knew I wanted to create a similar game system to 'The Quarry'. I looked into Quick time events and interaction systems. While there are loads of videos based on quick time events, the one I had used felt like it was the best at the time. However, in hindsight there were probably better videos out there. The video I used for my interaction system was one a designer in my group showed me based off of a dialogue system that Tutor, Liam Lacey showed how to make. This system had to be adapted to work with hot key popups. The process of making everything has been an interesting but challenging learning curve as unreal was new to me.
 
 ### Quick time event system
 <iframe src="https://blueprintue.com/render/mey5o30d/" scrolling="no" allowfullscreen></iframe>
@@ -57,39 +62,71 @@ The blueprints below show my process to my main mechanics. These are my quick ti
 <iframe src="https://blueprintue.com/render/cipdk-x5/" scrolling="no" allowfullscreen></iframe>
 <iframe src="https://blueprintue.com/render/wtamd7af/" scrolling="no" allowfullscreen></iframe> 
 
+I found the quick time event blueprints challenging. The video that shows how to put this system together did not explain what everything was for, with some logical thinking I managed to figure out what meant what. For this chunk of blueprints I used new nodes like:
+- Timelines
+- Play animations
+- Create widget
+- The majority of the nodes on the Progress bar Blueprint
+
+Learning how to use these nodes and how they would bring the quick time event system together was definitely a learning curve for me however, completing this event was such a relief that it helped provide further motivation to add things like the credits and provide one big push to get everything done.
+
+
 ![Failed_QTE](https://github.com/user-attachments/assets/965ef796-3c0c-4ce3-b4b0-1752fc6c9313)
 ![Passed_QTE](https://github.com/user-attachments/assets/319d86de-96d4-4eb5-b28d-8ca93f5c437f)
+
 
  Figure 1 and 2 show both the passed and failed system working, The positioning was later changed for the final product as I feel that it was too big and too central. This to me effected the flow of the game. I'm pleased I changed it.
 
 ### Interaction system
+
+For my interaction system I alld a video by Liam Lacey on adding running dialogue into a game
 <iframe src="https://blueprintue.com/render/5iiwqmyw/" scrolling="no" allowfullscreen></iframe>
 
 ![photo-collage png](https://github.com/user-attachments/assets/071ac8e0-4da0-47ca-89c4-5048079e8b74)
+
+
 Figure 3 Shows the UI I created for the interaction system in tester mode and as the final product. This fits well with the game and im really happy with this.
 
 
 ![Raycast](https://github.com/user-attachments/assets/0c58e7f1-fda6-47fb-8683-58f531a09f2d)
+
+
 Figure 4 Shows the raycast system working when we were testing blueprints, this was originally going to be the interact system until we decided that trigger boxes would work better with the camera system.
+### End credits 
+<iframe src="https://blueprintue.com/render/q44mhqou/" scrolling="no" allowfullscreen></iframe>
+<iframe src="https://blueprintue.com/render/1di8-483/" scrolling="no" allowfullscreen></iframe>
+
+![End credits](https://github.com/user-attachments/assets/82b5226a-10bc-4783-8261-0e7907d32dfe)
 
 ### Visuals 
+
 ![Cage progress](https://github.com/user-attachments/assets/1766238e-23f0-49a5-b36f-e449b7d99499)
+
+
 Figure 5 shows the progression of the cage before textures were added, during this process assets were starting to be added to the game and the final product was starting to come to life.
 
 ![office progress 1](https://github.com/user-attachments/assets/2c2b6206-8e13-48fe-bd31-304045ba3367)
 ![office progress 2](https://github.com/user-attachments/assets/daeedeb9-f5c8-4767-b51d-51265685ae12)
+
+
 Figure 6 and 7 shows the office when the untextured assets were added, the shape of the room is now taking place.
 
 
 ![FotoJet](https://github.com/user-attachments/assets/ab04b54a-16b0-41da-a8e9-fa680078aaee)
+
+
 Figure 8 shows another area of the office up close. Final assets and details were added before this like the artists textures and it really pulled this section together.
 
 
 ![FotoJet (1)](https://github.com/user-attachments/assets/b3fa6e5c-5b44-49fc-8915-570be79f2c7c)
+
+
 Figure 9 shows area of the office finished with lighting and textures, these images are final images from the gameplay itself.
 
 
 ![Cage fin](https://github.com/user-attachments/assets/e5838225-911f-4db4-ae78-960ef4ad5d3f)
+
+
 Figure 10 shows a final image of the cell with textures, I added the assets and textures for all of the cell area and polished that off myself.
 
 ### New Approaches  

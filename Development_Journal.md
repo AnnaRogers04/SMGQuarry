@@ -8,35 +8,35 @@ Anna Rogers
 
 ## Brief Question
 
- 2. Will video games inevitably mature into a new narrative artform driven by their storytelling ambitions? Consider different narrative structures deployed by game designers and the player’s role in experiencing and constructing game stories. 
+ 2. Will video games inevitably mature into a new narrative art form driven by their storytelling ambitions? Consider different narrative structures deployed by game designers and the player’s role in experiencing and constructing game stories. 
  
- (asking if video games in themselves will be considered their own art form driven by their choices in design story telling narrative)
+ (Asking if video games in themselves will be considered their own art form driven by their choices in design story telling narrative)
 
 
 ## Project Outline
-The game I've chosen to base this project off of is The Quarry, a cinematic third person game experience that relies on ambiance and scenes to proivide the player with an immserive experience. I wanted to create a playable scene that felt like The Quarry by impletemting a similar interaction system the orignal game and a similar UI system to try learn something new and push my bounderies outside my comfort zone. I will do this by researching and learning blueprints for interaction systems and adjusting them to suit the style of gameplay wanted.
+The game I've chosen to base this project off of is The Quarry, a cinematic third person game experience that relies on ambiance and scenes to provide the player with an immersive experience. I wanted to create a playable scene that felt like The Quarry by implementing a similar interaction system the original game and a similar UI system to try learn something new and push my boundaries outside my comfort zone. I will do this by researching and learning blueprints for interaction systems and adjusting them to suit the style of gameplay wanted.
 
 ## Research:
 
 ### Methodology  
 
-The sources I've provided have influenced how I approach the narrative of my game. With it being based off of a cinematic game the narrative is mainly shown in audio and interaction with the level. Each bit of interaction provides a further detail to the game, unraveling a story thats intended to be seen.
+The sources I've provided have influenced how I approach the narrative of my game. With it being based off of a cinematic game the narrative is mainly shown in audio and interaction with the level. Each bit of interaction provides a further detail to the game, unravelling a story that's intended to be seen.
 
 ### Game and Academic sources 
 #### Little Hope 
 Little Hope is a cinematic horror game by supermassive games. The theme of a more visual gameplay is very similar to the quarry as it very much focuses on the visual and storytelling aspect of the game. The game is heavily influenced by the Salem witch trials and the Andover witch trials of the 17th century. In particular the events of the 1692 witch trials in colonial America. This game reminds me of the following quote:
 
-- "From the opening cut-scene, gameplay is invested with a strong, even overwhelming, sense of narrative. Reduced to their basic formal or ludological bones, these tests in maze navigation, puzzle solution, evasion and target practise, are devoid of either horror or any notable sense of survival. It is through aspects of narrative, representation, and characterization that gameplay acquires the "edge, meaning and motivation."
+- "From the opening cut-scene, gameplay is invested with a strong, even overwhelming, sense of narrative. Reduced to their basic formal or ludological bones, these tests in maze navigation, puzzle solution, evasion and target practice, are devoid of either horror or any notable sense of survival. It is through aspects of narrative, representation, and characterization that gameplay acquires the "edge, meaning and motivation."
 
 This quote presents the idea that narrative is crucial and is well thought upon, without it the game is just a series of challenges. It shows us that the story provides emotional weight and helps us to understand if the game is a survival or horror etc. This relates to my current project because narrative is a huge part of the game we are making. Without the right narrative and world creation the game we make could be misunderstood.
 #### The Quarry 
-The Quarry is also a cinematic game by Supermassive games. Its also very visual and audio based like Little Hope. This game is more supernatural, having the setting based on the night of a full moon where werewolves hunt down a group of summer camp assistants. The goal is to lift the curse by killing the white werewofl and keeping all members alive. This game reminds me of the following quotes:
+The Quarry is also a cinematic game by Supermassive games. Its also very visual and audio based like Little Hope. This game is more supernatural, having the setting based on the night of a full moon where werewolves hunt down a group of summer camp assistants. The goal is to lift the curse by killing the white werewolf and keeping all members alive. This game reminds me of the following quotes:
 
-- " Alone in the Dark involves a range of visual and audio iconography self-consciously drawn from horror narrative culture. Survival entails a narrative situation including existance in the form of a central protagonist("character"), adversaries("horrific monsters"), location("enclosed places"); and events, the process of "solving puzzles" and "destroying"- which more problematically implies sucessful player interaction."
-- "Game play takes place within a representational universe, filled with depictions of objects, interactions, and ideas out of which the player makes meaning. It is up to the player to piece these together as they try to interpret the varying levels of complexity embeded within the game."
+- " Alone in the Dark involves a range of visual and audio iconography self-consciously drawn from horror narrative culture. Survival entails a narrative situation including existence in the form of a central protagonist("character"), adversaries("horrific monsters"), location("enclosed places"); and events, the process of "solving puzzles" and "destroying"- which more problematically implies successful player interaction."
+- "Game play takes place within a representational universe, filled with depictions of objects, interactions, and ideas out of which the player makes meaning. It is up to the player to piece these together as they try to interpret the varying levels of complexity embedded within the game."
 
 The first quote suggests the idea of a protagonist, adversaries, location and puzzles being the core elements in which a survival horror game can be made. Using traditional horror signs and sounds can create further the image of a survival game, making it more immersive to the player.
-The second quote further explains that the world you are playing in isnt random and is in fact very thought through and made to show/represent something. This design enourages the player to explore. They have the choice to learn more and piece the game and the story together or leave the game up to their interpretation eniterly. In my game the world itself has been made to encourage exploration, as exploration progresses the story and the level your playing, while using the narrative of a character, danger and confined space I hace tried to recreate an isolated ambiant experience.
+The second quote further explains that the world you are playing in isn't random and is in fact very thought through and made to show/represent something. This design encourages the player to explore. They have the choice to learn more and piece the game and the story together or leave the game up to their interpretation entirely. In my game the world itself has been made to encourage exploration, as exploration progresses the story and the level your playing, while using the narrative of a character, danger and confined space I have tried to recreate an isolated ambient experience.
 
 
 ### Documentation Sources  
@@ -49,7 +49,7 @@ Quick-time events were new to me, and this source was very good in expanding my 
 
 ### Process
 
-The blueprints below show my process to my main mechanics. These are my quick time event and my interaction which includes widgets appearing and dissappearing.
+The blueprints below show my process to my main mechanics. These are my quick time event and my interaction which includes widgets appearing and disappearing.
 
 ### Quick time event system
 <iframe src="https://blueprintue.com/render/mey5o30d/" scrolling="no" allowfullscreen></iframe>
@@ -60,25 +60,47 @@ The blueprints below show my process to my main mechanics. These are my quick ti
 ![Failed_QTE](https://github.com/user-attachments/assets/965ef796-3c0c-4ce3-b4b0-1752fc6c9313)
 ![Passed_QTE](https://github.com/user-attachments/assets/319d86de-96d4-4eb5-b28d-8ca93f5c437f)
 
- Figure 1 and 2 show both the passed and failed system working, The positioning was later changed for the final product
+ Figure 1 and 2 show both the passed and failed system working, The positioning was later changed for the final product as I feel that it was too big and too central. This to me effected the flow of the game. I'm pleased I changed it.
 
 ### Interaction system
 <iframe src="https://blueprintue.com/render/5iiwqmyw/" scrolling="no" allowfullscreen></iframe>
 
+![photo-collage png](https://github.com/user-attachments/assets/071ac8e0-4da0-47ca-89c4-5048079e8b74)
+Figure 3 Shows the UI I created for the interaction system in tester mode and as the final product. This fits well with the game and im really happy with this.
+
+
+![Raycast](https://github.com/user-attachments/assets/0c58e7f1-fda6-47fb-8683-58f531a09f2d)
+Figure 4 Shows the raycast system working when we were testing blueprints, this was originally going to be the interact system until we decided that trigger boxes would work better with the camera system.
 
 ### Visuals 
 ![Cage progress](https://github.com/user-attachments/assets/1766238e-23f0-49a5-b36f-e449b7d99499)
-Figure 3 shows the progression of the cage before textures were added, during this process assets were starting to be added to the game.
+Figure 5 shows the progression of the cage before textures were added, during this process assets were starting to be added to the game and the final product was starting to come to life.
+
+![office progress 1](https://github.com/user-attachments/assets/2c2b6206-8e13-48fe-bd31-304045ba3367)
+![office progress 2](https://github.com/user-attachments/assets/daeedeb9-f5c8-4767-b51d-51265685ae12)
+Figure 6 and 7 shows the office when the untextured assets were added, the shape of the room is now taking place.
+
+
+![FotoJet](https://github.com/user-attachments/assets/ab04b54a-16b0-41da-a8e9-fa680078aaee)
+Figure 8 shows another area of the office up close. Final assets and details were added before this like the artists textures and it really pulled this section together.
+
+
+![FotoJet (1)](https://github.com/user-attachments/assets/b3fa6e5c-5b44-49fc-8915-570be79f2c7c)
+Figure 9 shows area of the office finished with lighting and textures, these images are final images from the gameplay itself.
+
+
+![Cage fin](https://github.com/user-attachments/assets/e5838225-911f-4db4-ae78-960ef4ad5d3f)
+Figure 10 shows a final image of the cell with textures, I added the assets and textures for all of the cell area and polished that off myself.
 
 ### New Approaches  
-For this game i thought raycasting would be the best for the interaction. However after testing the raycasting alongside begin overlap I decided a trigger box was better for thos senario. It was intresting to learn as implementing a trigger box is alot more visual then in unity.
+For this game I thought raycasting would be the best for the interaction. However after testing the raycasting alongside begin overlap I decided a trigger box was better for this scenario. It was interesting to learn as implementing a trigger box is a lot more visual then in unity.
 
 ### Testing
-When testing the game I came to the conclusion that the ui system, walk keys and puzzle elements (more complex) need to be more interactive. Some screens were timed and you couldnt exit until the timer had finished. For people that picked up on what they needed to do quickly this took away from the experience. Making puzzle hints and a bigger game area. this feedback was very informative for me to perfect this game and has pushed me outside my comfort zone to overcome this i used a varity of sources from teatcher  peer support to videos to inform and improve my work. responding to this feedback i discussed to my group the changes that needed to be make and delegated roles to each menber to allow everyone to have a direction and upon doing this weve been able to correct and firther improve the game to make the exsperiance more imersive and allow the player a greater exsperiance 
+When testing the game I came to the conclusion that the UI system, walk keys and puzzle elements (more complex) need to be more interactive. Some screens were timed and you couldn't exit until the timer had finished. For people that picked up on what they needed to do quickly this took away from the experience. Making puzzle hints and a bigger game area. this feedback was very informative for me to perfect this game and has pushed me outside my comfort zone to overcome this I used a variety of sources from teacher  peer support to videos to inform and improve my work. responding to this feedback I discussed to my group the changes that needed to be make and delegated roles to each member to allow everyone to have a direction and upon doing this we've been able to correct and further improve the game to make the experience more immersive and allow the player a greater experience 
 
 ### Technical Difficulties
-During the game progress there were several technical issues the mains ones being the Password system and the QTE (quick time event) system. While the password was functional before the game test you could put in any code as long as you used all 4 numbers and it would work, this was a majour flaw as well as not being able to back out of the screen. These were fixed and i have provided documentation sources which i looked at while trying to getb= this to work.
-The QTE system had an issue when trasffering to main which gliched some variables, I had to go through and recheck the variables and replace the broken ones to fix this issue.
+During the game progress there were several technical issues the mains ones being the Password system and the QTE (quick time event) system. While the password was functional before the game test you could put in any code as long as you used all 4 numbers and it would work, this was a major flaw as well as not being able to back out of the screen. These were fixed and I have provided documentation sources which I looked at while trying to get this to work.
+The QTE system had an issue when transferring to main which glitched some variables, I had to go through and recheck the variables and replace the broken ones to fix this issue.
 
 ## Outcomes (remaining word count) 
 
@@ -131,6 +153,10 @@ Audio - Sourced and imported by Daniel Mcpherson
 - Whip | Afro Dancehall Music | Royalty-free Music (s.d.) At: (https://pixabay.com/music/beats-whip-afro-dancehall-music-110235/) (Accessed  09/04/2025).
 
 Assets - Sourced and added by Daniel Mcpherson
+- Coat Rack - Download Free 3D model by Whostea (2021) At: (https://sketchfab.com/models/72e821fc75d9473183a63d548959693b/embed?autostart=1) (Accessed  10/04/2025).
+- Wire Fence and Door Set - Download Free 3D model by GameDevMoot (2024) At: (https://sketchfab.com/models/eca6ce077d1e43c9a177f278284d3735/embed?autostart=1) (Accessed  10/04/2025).
+- Rusty Filing Cabinet - Download Free 3D model by Amiel Goco (@pamikoe) (2018) At: (https://sketchfab.com/models/619484b78fbe449ea5c0cdb68e8f2bd6/embed?autostart=1) (Accessed  10/04/2025).
+- Desk lamp - Download Free 3D model by sergeilihandristov (2023) At: (https://sketchfab.com/models/ac5135b505694287a64b4370ea2cda8d/embed?autostart=1) (Accessed  10/04/2025).
 
 Characters - Made by Ana Brichis, imported by Anna Rogers
 - MetaHuman Creator (s.d.) At: (https://metahuman.unrealengine.com/) (Accessed  09/04/2025).

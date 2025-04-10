@@ -79,9 +79,12 @@ Learning how to use these nodes and how they would bring the quick time event sy
 
 ### Interaction system
 
-For my interaction system I alld a video by Liam Lacey on adding running dialogue into a game
+
 <iframe src="https://blueprintue.com/render/5iiwqmyw/" scrolling="no" allowfullscreen></iframe>
 
+For my interaction system I followed a video by Liam Lacey on adding running dialogue into a game, while i didn't use running dialogue I was able to adapt this system to have an image of a mouse appear when an intractable is within reach. This was one of the first blueprints I created for this project, it was a great introduction to unreal. 
+
+As shown below there was originally a raycast system that was used to interact however I decided that this would be too conflicting with everything else we needed to add so we changed it to the system with the functioning UI. This system in my opinion fits the gameplay style I wanted to create really well and was happy with the change.
 ![photo-collage png](https://github.com/user-attachments/assets/071ac8e0-4da0-47ca-89c4-5048079e8b74)
 
 
@@ -96,6 +99,7 @@ Figure 4 Shows the raycast system working when we were testing blueprints, this 
 <iframe src="https://blueprintue.com/render/q44mhqou/" scrolling="no" allowfullscreen></iframe>
 <iframe src="https://blueprintue.com/render/1di8-483/" scrolling="no" allowfullscreen></iframe>
 
+The end credits was a very simple yet effective blueprint to add. After the quick time event I was more confident using animations and I nderstood how they worked. For instance the play animation node runs the whole animation when trigger the whole way through, this is where adding delays come in useful becau
 ![End credits](https://github.com/user-attachments/assets/82b5226a-10bc-4783-8261-0e7907d32dfe)
 
 ### Visuals 

@@ -16,6 +16,7 @@ Anna Rogers
 ## Project Outline
 The game I've chosen to base this project off of is The Quarry, a cinematic third person game experience that relies on ambiance and scenes to provide the player with an immersive experience. I wanted to create a playable scene that felt like The Quarry by implementing a similar interaction system the original game and a similar UI system to try learn something new and push my boundaries outside my comfort zone. I will do this by researching and learning blueprints for interaction systems and adjusting them to suit the style of gameplay wanted.
 
+This game it set  2 years after the events presented in the game 'The Quarry'. The characters you play are teens exploring the quarry for a podcast one of them is making on the supernatural. Isobele is a denier and doesn't believe in anything her counterpart Ash does. The snippet of our game is set after the 2 characters get separated and the aim is to explore the area to help Ash escape from wherever he is.
 ## Research:
 
 ### Methodology  
@@ -169,6 +170,8 @@ I think overall this game came out really well, im really proud of the QTE syste
 
 ### Negative Analysis  
 Due to lack of motivation between blueprints I found it hard to add more mechanics. I know if I was motivated I could have doubled what I did for this project. While im happy with my QTE system, its the only major blueprint I really contributed to this project aside from learning UIs so well I know it almost off by heart. I know I could have contributed more to this project and I am disappointed that mentally I couldn't cope with this concept. I feel the lack of attention from certain group members contributed to the lack of motivation, while that i'snt completely to blame it did negatively effect me. The harder it became to contact certain members the more it impacted the group. I had to help with more then just development like level blockouts, adding assets and textures and drawing the icons for the interact and QTE myself.
+
+There are still issues with the game such as audio overlaps (which could be have been somewhat fixed with a bigger layout, the designers said this wasn't important however.) and missing audio in the failed cutscene. Both of these things were Done by my designers and I did not feel I needed to correct their issues. They new of these issues but so decided they couldn't fix them so close to the deadline.
 
 
 ### Next Time

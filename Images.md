@@ -9,3 +9,4 @@
 ![FotoJet](https://github.com/user-attachments/assets/ab04b54a-16b0-41da-a8e9-fa680078aaee)
 ![FotoJet (1)](https://github.com/user-attachments/assets/b3fa6e5c-5b44-49fc-8915-570be79f2c7c)
 ![Cage fin](https://github.com/user-attachments/assets/e5838225-911f-4db4-ae78-960ef4ad5d3f)
+![End credits](https://github.com/user-attachments/assets/82b5226a-10bc-4783-8261-0e7907d32dfe)

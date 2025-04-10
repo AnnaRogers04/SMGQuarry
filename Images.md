@@ -4,3 +4,8 @@
 ![GAME TUMBNAIL](https://github.com/user-attachments/assets/ca2cd93a-7405-495a-9e60-da323a17e9cb)
 ![Failed_QTE](https://github.com/user-attachments/assets/965ef796-3c0c-4ce3-b4b0-1752fc6c9313)
 ![Passed_QTE](https://github.com/user-attachments/assets/319d86de-96d4-4eb5-b28d-8ca93f5c437f)
+![photo-collage png](https://github.com/user-attachments/assets/071ac8e0-4da0-47ca-89c4-5048079e8b74)
+![Raycast](https://github.com/user-attachments/assets/0c58e7f1-fda6-47fb-8683-58f531a09f2d)
+![FotoJet](https://github.com/user-attachments/assets/ab04b54a-16b0-41da-a8e9-fa680078aaee)
+![FotoJet (1)](https://github.com/user-attachments/assets/b3fa6e5c-5b44-49fc-8915-570be79f2c7c)
+![Cage fin](https://github.com/user-attachments/assets/e5838225-911f-4db4-ae78-960ef4ad5d3f)

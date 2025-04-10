@@ -152,7 +152,7 @@ During the game progress there were several technical issues, the mains ones bei
 The QTE system had an issue when transferring to main which glitched some variables, I had to go through and recheck the variables and replace the broken ones to fix this issue. It also clashed with other blueprints that had been added to the BP_ThirdPersonCharacter and didn't like it when I pushed to main. I tried different settings on the merge conflicts to attempt to keep all the blueprints working, in the end I had to remake my QTE system as that was less important at the time then the whole camera system that kept breaking. 
 
 ## Outcomes 
-The final outcome of the game is really effective.
+Below is access to the git, the game file and the FULL walkthrough of the game including the branching narrative. These all show the final outcomes as well as how that outcome was achieved. Im very happy with the final outcome of the game considering the issues being in a group project presented.
 
 - [itchlink](https://lunarlynx-games.itch.io/thequarrystudentinspired/) 
 - [gitlink](https://github.com/AnnaRogers04/SMGQuarry/)
@@ -168,10 +168,11 @@ For this project I could have definitely researched more sources for blueprints,
 I think overall this game came out really well, im really proud of the QTE system I made, while it was a pain to make it works so fluidly in the game that it makes up for it. The mechanics in the game work well and the UIs I implemented work great both technically and visually for designated purpose. I feel we managed to make our game into a cinematic art form and this im really happy about.
 
 ### Negative Analysis  
-Due to lack of motivation between blueprints I found it hard to add more mechanics. I know if I was motivated I could have doubled what I did for this projecT. While im happy with my QTE system, its the only major blueprint I really contributed to this project aside from learning UIs so well I know it almost off by heart. I know I could have contributed more to this project and I am disappointed that mentally I couldn't cope with this concept. 
+Due to lack of motivation between blueprints I found it hard to add more mechanics. I know if I was motivated I could have doubled what I did for this project. While im happy with my QTE system, its the only major blueprint I really contributed to this project aside from learning UIs so well I know it almost off by heart. I know I could have contributed more to this project and I am disappointed that mentally I couldn't cope with this concept. I feel the lack of attention from certain group members contributed to the lack of motivation, while that i'snt completely to blame it did negatively effect me. The harder it became to contact certain members the more it impacted the group. I had to help with more then just development like level blockouts, adding assets and textures and drawing the icons for the interact and QTE myself.
+
 
 ### Next Time
-Next time I'll find ways to better motivate myself and instead of doing little to nothing, I will move onto a new section (if i can) to give myself that space mentally. Working on something else in this project could have helped with my motivation and got me to work on this project a lot sooner then I actually did and that is my biggest regret. Next time in a group situation i will be firmer so the group time management is kept up with as well and try have it so the artists work alongside rather then on and off.
+Next time I'll find ways to better motivate myself and instead of doing little to nothing, I will move onto a new section (if i can) to give myself that space mentally. Working on something else in this project could have helped with my motivation and got me to work on this project a lot sooner then I actually did and that is my biggest regret. Next time in a group situation i will be firmer so the group time management is kept up with as well and try have it so the artists work alongside rather then on and off. In the next group situation if I notice someone slipping I'll have something put to the side in case they cannot complete what is needed, for instance if I did that with this project and had backup assets instead of deleting the temp blocks I would have had something to replace them with; making more visuals for the game.
 
 ## Bibliography  
 Research

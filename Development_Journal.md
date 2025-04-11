@@ -14,49 +14,53 @@ Anna Rogers
 
 
 ## Project Outline
-The game I've chosen to base this project off of is The Quarry, a cinematic third person game experience that relies on ambiance and scenes to provide the player with an immersive experience. I wanted to create a playable scene that felt like The Quarry by implementing a similar interaction system the original game and a similar UI system to try learn something new and push my boundaries outside my comfort zone. I will do this by researching and learning blueprints for interaction systems and adjusting them to suit the style of gameplay wanted.
+The game I've chosen to base this project off of is The Quarry (Supermassive Games - The Quarry, s.d.), a cinematic third person game experience that relies on ambiance and scenes to provide the player with an immersive experience. I wanted to create a playable scene that felt like The Quarry by implementing a similar interaction system the original game and a similar UI system to try learn something new and push my boundaries outside my comfort zone. I will do this by researching and learning blueprints for interaction systems and adjusting them to suit the style of gameplay wanted.
 
-This game it set  2 years after the events presented in the game 'The Quarry'. The characters you play are teens exploring the quarry for a podcast one of them is making on the supernatural. Isobele is a denier and doesn't believe in anything her counterpart Ash does. The snippet of our game is set after the 2 characters get separated and the aim is to explore the area to help Ash escape from wherever he is.
+This game it set  2 years after the events presented in the game 'The Quarry' (Supermassive Games - The Quarry, s.d.). The characters you play are teens exploring the quarry for a podcast one of them is making on the supernatural. Isobel is a denier and doesn't believe in anything her counterpart Ash does. The snippet of our game is set after the 2 characters get separated and the aim is to explore the area to help Ash escape from wherever he is.
 ## Research:
 
 ### Methodology  
 
 The sources I've provided have influenced how I approach the narrative of my game. With it being based off of a cinematic game the narrative is mainly shown in audio and interaction with the level. Each bit of interaction provides a further detail to the game, unravelling a story that's intended to be seen.
 
-### Game and Academic sources 
+### Game sources 
 #### Little Hope 
-Little Hope is a cinematic horror game by supermassive games. The theme of a more visual gameplay is very similar to the quarry as it very much focuses on the visual and storytelling aspect of the game. The game is heavily influenced by the Salem witch trials and the Andover witch trials of the 17th century. In particular the events of the 1692 witch trials in colonial America. This game reminds me of the following quote:
+Little Hope is a cinematic horror game by supermassive games. The theme of a more visual gameplay is very similar to the quarry as it very much focuses on the visual and storytelling aspect of the game. The game is heavily influenced by the Salem witch trials and the Andover witch trials of the 17th century. In particular the events of the 1692 witch trials in colonial America. (Little Hope (Town), 2021)
+Little hope (Little Hope, s.d.) is a game that focuses on switching between timelines yet keeping a cohesive story. The narrative and storytelling provided in this game flows really well to the point where its like a movie, which in my opinion makes this game its own art form.
 
-- "From the opening cut-scene, gameplay is invested with a strong, even overwhelming, sense of narrative. Reduced to their basic formal or ludological bones, these tests in maze navigation, puzzle solution, evasion and target practice, are devoid of either horror or any notable sense of survival. It is through aspects of narrative, representation, and characterization that gameplay acquires the "edge, meaning and motivation." (Perron, s.d.)
-
-This quote presents the idea that narrative is crucial and is well thought upon, without it the game is just a series of challenges. It shows us that the story provides emotional weight and helps us to understand if the game is a survival or horror etc. This relates to my current project because narrative is a huge part of the game we are making. Without the right narrative and world creation the game we make could be misunderstood.
 #### The Quarry 
-The Quarry is also a cinematic game by Supermassive games. Its also very visual and audio based like Little Hope. This game is more supernatural, having the setting based on the night of a full moon where werewolves hunt down a group of summer camp assistants. The goal is to lift the curse by killing the white werewolf and keeping all members alive. This game reminds me of the following quotes:
+The Quarry is also a cinematic game by Supermassive games. Its also very visual and audio based like Little Hope. This game is more supernatural, having the setting based on the night of a full moon where werewolves hunt down a group of summer camp assistants. The goal is to lift the curse by killing the white werewolf and keeping all members alive. (Supermassive Games - The Quarry, s.d.) This game uses outside exploration to make it bigger, the more you look around the more about the campsite/quarry you find out about as interactions are all over the game. While they aren't directly feeding you information during the end credits there is a podcast that links everything you found together. I would have liked to make more interactions based off of this but unfortunately I didn't.
+
+### Academic sources 
+For my academic sources I looked at 2 books 'Storytelling in Survival Horror Video Games' and 'Narrative Design and Authorship in Bloodborne,' Both of these books showed a good insight into how the development and narrative should be made together not separately as it makes a more cohesive game then it would to develop the game and then add narrative and vise versa. While both books were written differently they both said the same points which further solidified how i could make my game more immersive to try make it like its own art form.
 
 - " Alone in the Dark involves a range of visual and audio iconography self-consciously drawn from horror narrative culture. Survival entails a narrative situation including existence in the form of a central protagonist("character"), adversaries("horrific monsters"), location("enclosed places"); and events, the process of "solving puzzles" and "destroying"- which more problematically implies successful player interaction."(Perron, s.d.)
+- "From the opening cut-scene, gameplay is invested with a strong, even overwhelming, sense of narrative. Reduced to their basic formal or ludological bones, these tests in maze navigation, puzzle solution, evasion and target practice, are devoid of either horror or any notable sense of survival. It is through aspects of narrative, representation, and characterization that gameplay acquires the "edge, meaning and motivation." (Perron, s.d.)
+
+The first quote presents the idea that narrative is crucial and is well thought upon, without it the game is just a series of challenges. It shows us that the story provides emotional weight and helps us to understand if the game is a survival or horror etc. This relates to my current project because narrative is a huge part of the game I was making. Without the right narrative and world creation the game we make could be misunderstood.
+The second quote suggests the idea of a protagonist, adversaries, location and puzzles being the core elements in which a survival horror game can be made. Using traditional horror signs and sounds can create further the image of a survival game, making it more immersive to the player.  In My game Ive included a separate location a main protagonist and puzzles. Instead of an adversary I have a danger element which is the electric fence.
+
 - "Game play takes place within a representational universe, filled with depictions of objects, interactions, and ideas out of which the player makes meaning. It is up to the player to piece these together as they try to interpret the varying levels of complexity embedded within the game." (Hoedt, s.d.)
 
-The first quote suggests the idea of a protagonist, adversaries, location and puzzles being the core elements in which a survival horror game can be made. Using traditional horror signs and sounds can create further the image of a survival game, making it more immersive to the player.
-The second quote further explains that the world you are playing in isn't random and is in fact very thought through and made to show/represent something. This design encourages the player to explore. They have the choice to learn more and piece the game and the story together or leave the game up to their interpretation entirely. In my game the world itself has been made to encourage exploration, as exploration progresses the story and the level your playing, while using the narrative of a character, danger and confined space I have tried to recreate an isolated ambient experience.
-
+This quote further explains that the world you are playing in isn't random and is in fact very thought through and made to show/represent something. This design encourages the player to explore. They have the choice to learn more and piece the game and the story together or leave the game up to their interpretation entirely. In my game the world itself has been made to encourage exploration, as exploration progresses the story and the level your playing, while using the narrative of a character, danger and confined space I have tried to recreate an isolated ambient experience. In the game I,ve created exploration in the room your in is encouraged, the more you look at things the more it shows backstory linking to The Quarry (Supermassive Games - The Quarry, s.d.) 
 
 ### Documentation Sources  
 #### Quick time
 <iframe width="560" height="315" src="https://www.youtube.com/embed/H58y1Fp77_w?si=6oQG_i1nNOX5JJVa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-I used this video to make my quick-time event system more immersive and interactive. Since *The Quarry* is a cinematic game with minimal interactions, adding a visual quick-time event enhanced the experience.  
+I used this video to make my quick-time event system more immersive and interactive (Tap Key System (QTE) in Unreal Engine 5 (Tutorial), 2022). Since The Quarry (Supermassive Games - The Quarry, s.d.)  is a cinematic game with minimal interactions, adding a visual quick-time event enhanced the experience.  
 Quick-time events were new to me, and this source was very good in expanding my knowledge of nodes. However, I found it challenging to follow since it only provided notes and no audio. To overcome this, I looked to the designers in my group for help, which greatly improved my understanding and allowed me to implement the system successfully and efficiently. Additionally, my peers assisted me in troubleshooting and fixing issues when I encountered difficulties.
 
 #### Credits
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LmLjLQbyq-4?si=gLKk3EvA0ewXEjlg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-I used the video provided above to make my credits scene. This tutorial was really easy to follow and explained what I needed to do really well and in depth. After making the end credits from this video I further added the background to fade to black from the game and a main menu button to appear once the credits finished running. This was a nice final touch to add and I really enjoyed being able to share all the names of people I worked with. It polished the game off well and overall I'm really happy with this.
+I used the video provided above to make my credits scene (How to Make a Credits Menu in Unreal Engine 5, 2023). This tutorial was really easy to follow and explained what I needed to do really well and in depth. After making the end credits from this video I further added the background to fade to black from the game and a main menu button to appear once the credits finished running. This was a nice final touch to add and I really enjoyed being able to share all the names of people I worked with. It polished the game off well and overall I'm really happy with this.
 
 ## Implementation
 
 ### Process
 
-For this game I knew I wanted to create a similar game system to 'The Quarry'. I looked into Quick time events and interaction systems. While there are loads of videos based on quick time events, the one I had used felt like it was the best at the time. However, in hindsight there were probably better videos out there. The video I used for my interaction system was one a designer in my group showed me based off of a dialogue system that Tutor, Liam Lacey showed how to make. This system had to be adapted to work with hot key popups. The process of making everything has been an interesting but challenging learning curve as unreal was new to me.
+For this game I knew I wanted to create a similar game system to 'The Quarry' (Supermassive Games - The Quarry, s.d.) . I looked into Quick time events and interaction systems. While there are loads of videos based on quick time events, the one I had used felt like it was the best at the time. However, in hindsight there were probably better videos out there. The video I used for my interaction system was one a designer in my group showed me based off of a dialogue system that Tutor, Liam Lacey showed how to make. This system had to be adapted to work with hot key popups. The process of making everything has been an interesting but challenging learning curve as unreal was new to me.
 
 ### Quick time event system
 <iframe src="https://blueprintue.com/render/mey5o30d/" scrolling="no" allowfullscreen></iframe>
@@ -64,13 +68,13 @@ For this game I knew I wanted to create a similar game system to 'The Quarry'. I
 <iframe src="https://blueprintue.com/render/cipdk-x5/" scrolling="no" allowfullscreen></iframe>
 <iframe src="https://blueprintue.com/render/wtamd7af/" scrolling="no" allowfullscreen></iframe> 
 
-I found the quick time event blueprints challenging. The video that shows how to put this system together did not explain what everything was for, with some logical thinking I managed to figure out what meant what. For this chunk of blueprints I used new nodes like:
+I found the quick time event blueprints challenging. The video that shows how to put this system together did not explain what everything was for, with some logical thinking I managed to figure out what meant what (Tap Key System (QTE) in Unreal Engine 5 (Tutorial), 2022). For this chunk of blueprints I used new nodes like:
 - Timelines
 - Play animations
 - Create widget
 - The majority of the nodes on the Progress bar Blueprint
 
-Learning how to use these nodes and how they would bring the quick time event system together was definitely a learning curve for me however, completing this event was such a relief that it helped provide further motivation to add things like the credits and provide one big push to get everything done. 
+Learning how to use these nodes and how they would bring the quick time event system together was definitely a learning curve for me however, completing this event was such a relief that it helped provide further motivation to add things like the credits and provide one big push to get everything done. (How to Make a Credits Menu in Unreal Engine 5, 2023)
 The 'Do once' nodes were really helpful in preventing certain areas of blueprints to not repeat itself after its been triggered once. And being able to add the variables onto the event nodes was also visually helping to be ble to easily tell what had already been done of the QTE when making it.
 
 
@@ -87,7 +91,7 @@ The 'Do once' nodes were really helpful in preventing certain areas of blueprint
 
 For my interaction system I followed a video by Liam Lacey on adding running dialogue into a game, while i didn't use running dialogue I was able to adapt this system to have an image of a mouse appear when an intractable is within reach. This was one of the first blueprints I created for this project, it was a great introduction to unreal. 
 
-As shown below there was originally a raycast system that was used to interact however I decided that this would be too conflicting with everything else we needed to add so we changed it to the system with the functioning UI. This system in my opinion fits the gameplay style I wanted to create really well and was happy with the change. The UI system for unreal was really fun to learn and im my opinion is better then unity as visually everything is easy to see and its easy to tell whats where. This surprised me as in my opinion I prefer coding in Unity then blueprinting in Ureal, that being said by the end of the project it wasn't as bad as I felt it was when i started using it.
+As shown below there was originally a raycast system that was used to interact however I decided that this would be too conflicting with everything else I needed to add so I changed it to the system with the functioning UI. This system in my opinion fits the gameplay style I wanted to create really well and was happy with the change. The UI system for unreal was really fun to learn and im my opinion is better then unity as visually everything is easy to see and its easy to tell whats where. This surprised me as in my opinion I prefer coding in Unity then blueprinting in Ureal, that being said by the end of the project it wasn't as bad as I felt it was when i started using it.
 
 ![photo-collage png](https://github.com/user-attachments/assets/071ac8e0-4da0-47ca-89c4-5048079e8b74)
 
@@ -98,12 +102,12 @@ Figure 3 Shows the UI I created for the interaction system in tester mode and as
 ![Raycast](https://github.com/user-attachments/assets/0c58e7f1-fda6-47fb-8683-58f531a09f2d)
 
 
-Figure 4 Shows the raycast system working when we were testing blueprints, this was originally going to be the interact system until we decided that trigger boxes would work better with the camera system.
+Figure 4 Shows the raycast system working when I was testing blueprints, this was originally going to be the interact system until I decided that trigger boxes would work better with the camera system.
 ### End credits 
 <iframe src="https://blueprintue.com/render/q44mhqou/" scrolling="no" allowfullscreen></iframe>
 <iframe src="https://blueprintue.com/render/1di8-483/" scrolling="no" allowfullscreen></iframe>
 
-The end credits was a very simple yet effective blueprint to add. After the quick time event I was more confident using animations and understanding how they worked. For instance the play animation node when triggered runs the whole animation the whole way through, this is where adding delays come in useful because it can delay when the animation can play so its not immediate. 
+The end credits (How to Make a Credits Menu in Unreal Engine 5, 2023) was a very simple yet effective blueprint to add. After the quick time event I was more confident using animations and understanding how they worked. For instance the play animation node when triggered runs the whole animation the whole way through, this is where adding delays come in useful because it can delay when the animation can play so its not immediate. 
 While the fade to black and the main menu button appearing was simple it was still nice to attempt to do something new with no instructions and i think the end result turned out really well. 
 
 ![End credits](https://github.com/user-attachments/assets/82b5226a-10bc-4783-8261-0e7907d32dfe)
@@ -139,18 +143,16 @@ Figure 9 shows area of the office finished with lighting and textures, these ima
 ![Cage fin](https://github.com/user-attachments/assets/e5838225-911f-4db4-ae78-960ef4ad5d3f)
 
 
-Figure 10 shows a final image of the cell with textures, I added the assets and textures for all of the cell area and polished that off myself.
-
-In this scene the cage asset itself has unreal metal materials added to them which i think worked really well in the lighting for this area in general. The room is covered in the same texture which due to shadows and lighting looks different from different angles, this was really useful for as the artists didn't need too make wall and floor textures.
+Figure 10 shows a final image of the cell with textures, I added the assets and textures for all of the cell area and polished that off myself. In this scene the cage asset itself has unreal metal materials added to them which i think worked really well in the lighting for this area in general. The room is covered in the same texture which due to shadows and lighting looks different from different angles, this was really useful for as the artists didn't need too make wall and floor textures.
 
 ### New Approaches  
-For this game I thought raycasting would be the best for the interaction. However after testing the raycasting alongside begin overlap I decided a trigger box was better for this scenario. It was interesting to learn as implementing a trigger box is a lot more visual then in unity. I also used Unreal addons like Fab and metahumans. Although I didn't important anything from fab it was useful to be able to look at everything. However, I did import metahumans made by my artists. They took a while to import (30ish mins per character and we had 2) but they weren't difficult to import at all.
+For this game I thought raycasting would be the best for the interaction. However after testing the raycasting alongside begin overlap I decided a trigger box was better for this scenario. It was interesting to learn as implementing a trigger box is a lot more visual then in unity. I also used Unreal addons like Fab and metahumans. Although I didn't important anything from fab it was useful to be able to look at everything. However, I did import metahumans made by my artists (MetaHuman Creator, s.d.). They took a while to import (30ish mins per character and I had 2) but they weren't difficult to import at all.
 
 ### Testing
-When testing the game, the group came to the conclusion that the UI system, walk keys and puzzle elements (more complex) need to be more interactive. Some screens were timed and you couldn't exit until the timer had finished. For people that picked up on what they needed to do quickly this took away from the experience. Making obvious puzzle hints and a potential bigger area could help with this. This feedback was very informative for me to perfect this game and has pushed me outside my comfort zone. To overcome this I used a variety of sources from teacher support, peer support and videos to inform and improve my work. Responding to this feedback I discussed to my group the changes that needed to be made, and delegated roles to each member to allow everyone to have a direction on what they needed to do. Upon doing this we've been able to correct and further improve the game to make the experience more immersive and allow the player a greater experience 
+When testing the game, the group came to the conclusion that the UI system, walk keys and puzzle elements (more complex) need to be more interactive. Some screens were timed and you couldn't exit until the timer had finished. For people that picked up on what they needed to do quickly this took away from the experience. Making obvious puzzle hints and a potential bigger area could help with this. This feedback was very informative for me to perfect this game and has pushed me outside my comfort zone. To overcome this I used a variety of sources from teacher support, peer support and videos to inform and improve my work. Responding to this feedback I discussed to my group the changes that needed to be made, and delegated roles to each member to allow everyone to have a direction on what they needed to do. Upon doing this I've been able to correct and further improve the game to make the experience more immersive and allow the player a greater experience 
 
 ### Technical Difficulties
-During the game progress there were several technical issues, the mains ones being the Password system and the QTE (quick time event) system. While the password was functional before the game test you could put in any code as long as you used all 4 numbers and it would work, this was a major flaw as well as not being able to back out of the screen. These were fixed and I have provided documentation sources which I looked at while trying to get this to work.
+During the game progress there were several technical issues, the mains ones being the Password system and the QTE system (Tap Key System (QTE) in Unreal Engine 5 (Tutorial), 2022). While the password was functional before the game test you could put in any code as long as you used all 4 numbers and it would work, this was a major flaw as well as not being able to back out of the screen. These were fixed and I have provided documentation sources which I looked at while trying to get this to work.
 The QTE system had an issue when transferring to main which glitched some variables, I had to go through and recheck the variables and replace the broken ones to fix this issue. It also clashed with other blueprints that had been added to the BP_ThirdPersonCharacter and didn't like it when I pushed to main. I tried different settings on the merge conflicts to attempt to keep all the blueprints working, in the end I had to remake my QTE system as that was less important at the time then the whole camera system that kept breaking. 
 
 ## Outcomes 
@@ -167,7 +169,7 @@ Below is access to the git, the game file and the FULL walkthrough of the game i
 For this project I could have definitely researched more sources for blueprints, this may have prevented me from having such a hard time with QTE video having no audio. This could have also streamlined the process for me as the video I followed took me a while to make due to how fast the person making the blueprints worked.
 
 ### Positive Analysis 
-I think overall this game came out really well, im really proud of the QTE system I made, while it was a pain to make it works so fluidly in the game that it makes up for it. The mechanics in the game work well and the UIs I implemented work great both technically and visually for designated purpose. I feel we managed to make our game into a cinematic art form and this im really happy about.
+I think overall this game came out really well, im really proud of the QTE system (Tap Key System (QTE) in Unreal Engine 5 (Tutorial), 2022) I made, while it was a pain to make it works so fluidly in the game that it makes up for it. The mechanics in the game work well and the UIs I implemented work great both technically and visually for designated purpose. I feel I managed to make our game into a cinematic art form and this im really happy about.
 
 ### Negative Analysis  
 Due to lack of motivation between blueprints I found it hard to add more mechanics. I know if I was motivated I could have doubled what I did for this project. While im happy with my QTE system, its the only major blueprint I really contributed to this project aside from learning UIs so well I know it almost off by heart. I know I could have contributed more to this project and I am disappointed that mentally I couldn't cope with this concept. I feel the lack of attention from certain group members contributed to the lack of motivation, while that i'snt completely to blame it did negatively effect me. The harder it became to contact certain members the more it impacted the group. I had to help with more then just development like level blockouts, adding assets and textures and drawing the icons for the interact and QTE myself.
@@ -181,8 +183,12 @@ Next time I'll find ways to better motivate myself and instead of doing little t
 ## Bibliography  
 Research
 - Kirkland, E. (s.d.) 'Storytelling in Survival Horror Video Games' In: Horror Video Games: Essays on the Fusion of Fear and Play. (s.l.): (s.n.). pp.62–78.
-- Sheldon, L. (s.d.) 'Character development and storytelling for games' (s.l.): (s.n.). pp.153–154.
 - Hoedt, M. (s.d.) 'Narrative Design and Authorship in Bloodborne' In: An Analysis of the Horror Videogame. (s.l.): (s.n.). pp.140–142.
+- Little Hope (Town) (2021) At: https://thedarkpictures.fandom.com/wiki/Little_Hope_(Town) (Accessed  11/04/2025).
+- Little Hope (s.d.) At: https://www.thedarkpictures.com/games/little-hope (Accessed  11/04/2025).
+- Supermassive Games - The Quarry (s.d.) At: https://www.supermassivegames.com/games/the-quarry (Accessed  11/04/2025).
+
+
 
 Game sources
 - How do I press the buttons in the correct order using a variable? - Programming & Scripting / - Blueprint - Epic Developer Community Forums (s.d.) At: https://forums.unrealengine.com how-do-i-press-the-buttons-in-the-correct-order-using-a-variable/488873 (Accessed  01/04/2025).-

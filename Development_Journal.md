@@ -184,33 +184,33 @@ Next time I'll find ways to better motivate myself and instead of doing little t
 Research
 - Kirkland, E. (s.d.) 'Storytelling in Survival Horror Video Games' In: Horror Video Games: Essays on the Fusion of Fear and Play. (s.l.): (s.n.). pp.62–78.
 - Hoedt, M. (s.d.) 'Narrative Design and Authorship in Bloodborne' In: An Analysis of the Horror Videogame. (s.l.): (s.n.). pp.140–142.
-- Little Hope (Town) (2021) At: https://thedarkpictures.fandom.com/wiki/Little_Hope_(Town) (Accessed  11/04/2025).
-- Little Hope (s.d.) At: https://www.thedarkpictures.com/games/little-hope (Accessed  11/04/2025).
-- Supermassive Games - The Quarry (s.d.) At: https://www.supermassivegames.com/games/the-quarry (Accessed  11/04/2025).
-
-
+- Little Hope (Town) (2021) At: [https://thedarkpictures.fandom.com/wiki/Little_Hope_(Town)](https://thedarkpictures.fandom.com/wiki/Little_Hope_(Town)) (Accessed  11/04/2025).
+- Little Hope (s.d.) At: [https://www.thedarkpictures.com/games/little-hope](https://www.thedarkpictures.com/games/little-hope) (Accessed  11/04/2025).
+- Supermassive Games - The Quarry (s.d.) At: [https://www.supermassivegames.com/games/the-quarry](https://www.supermassivegames.com/games/the-quarry) (Accessed  11/04/2025).
 
 Game sources
-- How do I press the buttons in the correct order using a variable? - Programming & Scripting / - Blueprint - Epic Developer Community Forums (s.d.) At: https://forums.unrealengine.com how-do-i-press-the-buttons-in-the-correct-order-using-a-variable/488873 (Accessed  01/04/2025).-
-- Basic QTE System | Part 1 - Unreal Engine 4 Tutorial (2021) At: https://www.youtube.com/watch?v=teoJUExYjVI/ (Accessed  01/04/2025).
-- Tap Key System (QTE) in Unreal Engine 5 (Tutorial) (2022) At: https://www.youtube.com/watch?v=H58y1Fp77_w/ (Accessed  01/04/2025).
-- How to Make a Credits Menu in Unreal Engine 5 (2023) At: https://www.youtube.com/watch?v=LmLjLQbyq-4/ (Accessed  09/04/2025).
+- How do I press the buttons in the correct order using a variable? - Programming & Scripting / - Blueprint - Epic Developer Community Forums (s.d.) At: [https://forums.unrealengine.com how-do-i-press-the-buttons-in-the-correct-order-using-a-variable/488873]() (Accessed  01/04/2025).-
+- Basic QTE System | Part 1 - Unreal Engine 4 Tutorial (2021) At: [https://www.youtube.com/watch?v=teoJUExYjVI](https://www.youtube.com/watch?v=teoJUExYjVI) (Accessed  01/04/2025).
+- Tap Key System (QTE) in Unreal Engine 5 (Tutorial) (2022) At: [https://www.youtube.com/watch?v=H58y1Fp77_w](https://www.youtube.com/watch?v=H58y1Fp77_w]) (Accessed  01/04/2025).
+- How to Make a Credits Menu in Unreal Engine 5 (2023) At: [https://www.youtube.com/watch?v=LmLjLQbyq-4](https://www.youtube.com/watch?v=LmLjLQbyq-4) (Accessed  09/04/2025).
 
 ## Declared Assets
 
 Audio - Sourced and imported by Daniel Mcpherson
-- 8mm Film Camera | Royalty-free Music (s.d.) At: https://pixabay.com/sound-effects/8mm-film-camera-6446/ (Accessed  09/04/2025).
-- Cinematic Tension - Suspenseful Thriller Music Loop | Royalty-free Music (s.d.) At: https://pixabay.com/music/main-title-cinematic-tension-suspenseful-thriller-music-loop-297627/ (Accessed  09/04/2025).
-- Deep Pass By | Royalty-free Music (s.d.) At: https://pixabay.com/sound-effects/deep-pass-by-106962/ (Accessed  09/04/2025).
-- Fire Alarm Loop by simonjeffery13 (s.d.) At: https://freesound.org/people/simonjeffery13/sounds/792642/ (Accessed  09/04/2025).
-- Geiger counter (dry) by Sanderboah (s.d.) At: https://freesound.org/people/Sanderboah/sounds/674113/ (Accessed  09/04/2025).
-- Whip | Afro Dancehall Music | Royalty-free Music (s.d.) At: https://pixabay.com/music/beats-whip-afro-dancehall-music-110235/ (Accessed  09/04/2025).
+- 8mm Film Camera | Royalty-free Music (s.d.) At: [https://pixabay.com/sound-effects/8mm-film-camera-6446](https://pixabay.com/sound-effects/8mm-film-camera-6446) (Accessed  09/04/2025).
+- Cinematic Tension - Suspenseful Thriller Music Loop | Royalty-free Music (s.d.) At: [https://pixabay.com/music/main-title-cinematic-tension-suspenseful-thriller-music-loop-297627](https://pixabay.com/music/main-title-cinematic-tension-suspenseful-thriller-music-loop-297627) (Accessed  09/04/2025).
+- Deep Pass By | Royalty-free Music (s.d.) At: [https://pixabay.com/sound-effects/deep-pass-by-106962](https://pixabay.com/sound-effects/deep-pass-by-106962) (Accessed  09/04/2025).
+- Fire Alarm Loop by simonjeffery13 (s.d.) At: [https://freesound.org/people/simonjeffery13/sounds/792642](https://freesound.org/people/simonjeffery13/sounds/792642) (Accessed  09/04/2025).
+- Geiger counter (dry) by Sanderboah (s.d.) At: [https://freesound.org/people/Sanderboah/sounds/674113](https://freesound.org/people/Sanderboah/sounds/674113) (Accessed  09/04/2025).
+- Whip | Afro Dancehall Music | Royalty-free Music (s.d.) At: [https://pixabay.com/music/beats-whip-afro-dancehall-music-110235](https://pixabay.com/music/beats-whip-afro-dancehall-music-110235) (Accessed  09/04/2025).
+
+
 
 Assets - Sourced and added by Daniel Mcpherson
-- Coat Rack - Download Free 3D model by Whostea (2021) At: https://sketchfab.com/models/72e821fc75d9473183a63d548959693b/embed?autostart=1 (Accessed  10/04/2025).
-- Wire Fence and Door Set - Download Free 3D model by GameDevMoot (2024) At: https://sketchfab.com/models/eca6ce077d1e43c9a177f278284d3735/embed?autostart=1 (Accessed  10/04/2025).
-- Rusty Filing Cabinet - Download Free 3D model by Amiel Goco (@pamikoe) (2018) At: https://sketchfab.com/models/619484b78fbe449ea5c0cdb68e8f2bd6/embed?autostart=1 (Accessed  10/04/2025).
-- Desk lamp - Download Free 3D model by sergeilihandristov (2023) At: https://sketchfab.com/models/ac5135b505694287a64b4370ea2cda8d/embed?autostart=1 (Accessed  10/04/2025).
+- Coat Rack - Download Free 3D model by Whostea (2021) At: [https://sketchfab.com/models/72e821fc75d9473183a63d548959693b/embed?autostart=1](https://sketchfab.com/models/72e821fc75d9473183a63d548959693b/embed?autostart=1) (Accessed  10/04/2025).
+- Wire Fence and Door Set - Download Free 3D model by GameDevMoot (2024) At: [https://sketchfab.com/models/eca6ce077d1e43c9a177f278284d3735/embed?autostart=1](https://sketchfab.com/models/eca6ce077d1e43c9a177f278284d3735/embed?autostart=1) (Accessed  10/04/2025).
+- Rusty Filing Cabinet - Download Free 3D model by Amiel Goco (@pamikoe) (2018) At: [https://sketchfab.com/models/619484b78fbe449ea5c0cdb68e8f2bd6/embed?autostart=1](https://sketchfab.com/models/619484b78fbe449ea5c0cdb68e8f2bd6/embed?autostart=1) (Accessed  10/04/2025).
+- Desk lamp - Download Free 3D model by sergeilihandristov (2023) At: [https://sketchfab.com/models/ac5135b505694287a64b4370ea2cda8d/embed?autostart=1](https://sketchfab.com/models/ac5135b505694287a64b4370ea2cda8d/embed?autostart=1) (Accessed  10/04/2025).
 
 Characters - Made by Ana Brichis, imported by Anna Rogers
-- MetaHuman Creator (s.d.) At: https://metahuman.unrealengine.com/ (Accessed  09/04/2025).
+- MetaHuman Creator (s.d.) At: [https://metahuman.unrealengine.com](https://metahuman.unrealengine.com) (Accessed  09/04/2025).
